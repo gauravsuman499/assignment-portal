@@ -1,0 +1,85 @@
+# assignment data
+
+{
+  "adminId": "6739e6176dc46f8fcdc823ae",
+  "task": "Hello World."
+}
+
+
+
+#User data
+
+{
+  "name": "User1",
+  "email": "user1@gmail.com",
+  "password": "User1",
+  "role": "User",
+},
+
+{
+  "name": "User2",
+  "email": "user2@gmail.com",
+  "password": "User2",
+  "role": "User",
+},
+
+{
+  "name": "User3",
+  "email": "user3@gmail.com",
+  "password": "User3",
+  "role": "User",
+},
+
+{
+  "name": "User4",
+  "email": "user4@gmail.com",
+  "password": "User4",
+  "role": "User",
+},
+
+{
+  "name": "User5",
+  "email": "user5@gmail.com",
+  "password": "User5",
+  "role": "User",
+}
+
+
+
+# Admin data
+
+
+{
+  "name": "Admin1",
+  "email": "admin1@gmail.com",
+  "password": "Admin1",
+  "role": "Admin",
+},
+
+{
+  "name": "Admin2",
+  "email": "admin2@gmail.com",
+  "password": "Admin2",
+  "role": "Admin",
+},
+
+{
+  "name": "Admin3",
+  "email": "admin3@gmail.com",
+  "password": "Admin3",
+  "role": "Admin",
+},
+
+{
+  "name": "Admin4",
+  "email": "admin4@gmail.com",
+  "password": "Admin4",
+  "role": "Admin",
+},
+
+{
+  "name": "Admin5",
+  "email": "admin5@gmail.com",
+  "password": "Admin5",
+  "role": "Admin",
+}
