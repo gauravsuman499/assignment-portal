@@ -2,23 +2,24 @@
 A backend system for an assignment submission portal where users can upload assignments and admins can accept or reject them.
 
 **Step-by-step Process to run the Assignment submission portal backend.**
+
 NOTE: Assuming that you have installed all the required software on your local system that are required to run this program successfully(like - MongoDB, Postman, Node.js, VsCode, etc).
 
 Step-1: Clone the Repository(using the Submitted link), then navigate into the propject directory using the below given command:
-     ** cd assignment-portal**
+         ** cd assignment-portal**
 
 Step-2: Install Required Dependencies.
         Run the following command to install all necessary dependencies:
 
-       ** npm install**
+         ** npm install**
 
 Step-3: Configure the .env file(if not done already).
         : Create a .env file in the project root directory.
         : Add the following configuration values(You can also change these values according to your requirements and system):
 
-            PORT=5000
+PORT=5000
 
-            MONGO_URI='mongodb://localhost:27017/assignment-portal'
+MONGO_URI='mongodb://localhost:27017/assignment-portal'
     JWT_SECRET=9f100d7c91f295d81219632806fd6bf2c88742789351f581515f4067a3dd720124a757eba13d8d79bfa430a5aa59606c3be2319ad845992f8c462db8e4131eb9
 
 Note: MongoDB server must be started/running(for successfull db connection) .
